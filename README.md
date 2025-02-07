@@ -29,13 +29,13 @@ Certifique-se de ter os seguintes pacotes instalados antes de rodar o script:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/youtube-downloader.git
-   cd youtube-downloader
+   git clone https://github.com/eliudefrancisco14/download-of-youtube.git
+   cd download-of-youtube
    ```
 
 2. Execute o script:
    ```sh
-   python downloader.py
+   python main.py
    ```
 
 3. Insira o link do vídeo ou playlist na caixa de diálogo.
@@ -48,5 +48,5 @@ Este projeto é de código aberto e está licenciado sob a [MIT License](LICENSE
 
 ---
 
-💡 **Sugestões ou problemas?** Sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/youtube-downloader/issues) ou contribuir com um PR! 🚀
-```
+💡 **Sugestões ou problemas?** Sinta-se à vontade para abrir uma [issue](https://github.com/eliudefrancisco14/download-of-youtube/issues) ou contribuir com um PR! 🚀
+
