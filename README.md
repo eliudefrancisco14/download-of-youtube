@@ -1,6 +1,3 @@
-Aqui está um **README.md** bem estruturado para o seu projeto no GitHub. Ele inclui instruções de instalação, uso e requisitos.  
-
-```markdown
 # 🎥 YouTube Video & Playlist Downloader
 
 Um script Python para baixar vídeos ou playlists do YouTube. Ele identifica automaticamente se o link fornecido é um **vídeo único** ou uma **playlist**, e no caso de playlists, baixa apenas os **10 primeiros vídeos**.
